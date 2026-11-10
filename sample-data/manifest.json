@@ -1,0 +1,2419 @@
+{
+  "schema_version": 1,
+  "name": "Plantroom / fictional field collection",
+  "synthetic": true,
+  "buildings": [
+    {
+      "id": "MC01",
+      "name": "Mercer Court"
+    },
+    {
+      "id": "CH02",
+      "name": "Calder House"
+    }
+  ],
+  "items": [
+    {
+      "id": "IMG-001",
+      "path": "photos/IMG_5101.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-P01",
+      "date": "2026-09-08",
+      "title": "Site photograph 001",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "61a0fdbd01ae875be16d496321fe87cb69ad94305dc1b674ef46654c6072f5fe",
+        "bytes": 120811
+      }
+    },
+    {
+      "id": "IMG-002",
+      "path": "photos/IMG_5102.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-P02",
+      "date": "2026-09-11",
+      "title": "Site photograph 002",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "df36b9984b9f71fe86be5cdae095e8fc82c7dd522293b64549eab24258793eec",
+        "bytes": 127965
+      }
+    },
+    {
+      "id": "IMG-003",
+      "path": "photos/IMG_5103.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-P03",
+      "date": "2026-09-14",
+      "title": "Site photograph 003",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "ae127fcae34de18c9e4ed5dd1c7847ba06e3aa72d405202e6bc3b932ec10cfcd",
+        "bytes": 133531
+      }
+    },
+    {
+      "id": "IMG-004",
+      "path": "photos/IMG_5104.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-P04",
+      "date": "2026-09-17",
+      "title": "Site photograph 004",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "e0385c7af8d46fabdefb8a007e1e8473c83aa786f832af2539effef1896dc456",
+        "bytes": 133587
+      }
+    },
+    {
+      "id": "IMG-005",
+      "path": "photos/IMG_5105.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-P05",
+      "date": "2026-09-20",
+      "title": "Site photograph 005",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "f1b1ce3a1d0c950248773ee320ae7764b4e50a6adb1cc2af3ff93e9366c2a79f",
+        "bytes": 114348
+      }
+    },
+    {
+      "id": "IMG-006",
+      "path": "photos/IMG_5106.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-P06",
+      "date": "2026-09-23",
+      "title": "Site photograph 006",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "94cc0e77e014f37f601300f66ef9a33a0bdf27499b58cce468d91b4109c34a5a",
+        "bytes": 124901
+      }
+    },
+    {
+      "id": "IMG-007",
+      "path": "photos/IMG_5107.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-P07",
+      "date": "2026-09-26",
+      "title": "Site photograph 007",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "9a8426db3be8afee1ba1ceeb32e8536e142983a3a763d276a17a840e72e8ee98",
+        "bytes": 168640
+      }
+    },
+    {
+      "id": "IMG-008",
+      "path": "photos/IMG_5108.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-P08",
+      "date": "2026-09-05",
+      "title": "Site photograph 008",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "abf200962470f4bcce84913d3bd7ffb60a763f2779aaa9fd3144b53aad8f78bc",
+        "bytes": 109890
+      }
+    },
+    {
+      "id": "IMG-009",
+      "path": "photos/IMG_5109.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-P09",
+      "date": "2026-09-08",
+      "title": "Site photograph 009",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "1ad2df36c5e9be87072a754c9251d2afb893116813cf0c869a22ce6c3d5219a1",
+        "bytes": 116776
+      }
+    },
+    {
+      "id": "IMG-010",
+      "path": "photos/IMG_5110.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-P10",
+      "date": "2026-09-11",
+      "title": "Site photograph 010",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "e8e54b05d506d04ab16a20f7f7217392a6f7e4e0ca820a5a756552b2b7aa238f",
+        "bytes": 120445
+      }
+    },
+    {
+      "id": "IMG-011",
+      "path": "photos/IMG_5111.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-P11",
+      "date": "2026-09-14",
+      "title": "Site photograph 011",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "e5ef598b1f4ba17044b942c2945951cc1502bc6db5344fba77dbd6608e031a07",
+        "bytes": 88428
+      }
+    },
+    {
+      "id": "IMG-012",
+      "path": "photos/IMG_5112.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-P12",
+      "date": "2026-09-17",
+      "title": "Site photograph 012",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "3ac497235e02b9ac5ce2ecdf4d2285f40c97673376bf684824da30836e677e10",
+        "bytes": 144710
+      }
+    },
+    {
+      "id": "IMG-013",
+      "path": "photos/IMG_5113.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-P13",
+      "date": "2026-09-20",
+      "title": "Site photograph 013",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "dce233dfe47543c5768919d35a9435c7338768e8c1859a1ce1584d13e3de7edc",
+        "bytes": 176817
+      }
+    },
+    {
+      "id": "IMG-014",
+      "path": "photos/IMG_5114.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-P14",
+      "date": "2026-09-23",
+      "title": "Site photograph 014",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "fb768c095e49c6b65f3c4f3ad2f1f9508bd84c59427baea08fe57f3056d929d3",
+        "bytes": 130369
+      }
+    },
+    {
+      "id": "IMG-015",
+      "path": "photos/IMG_5115.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-P15",
+      "date": "2026-09-26",
+      "title": "Site photograph 015",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "15a5119203bfe9679c0a976a268c11337c26b78ff39fb7085222b1f32092c9eb",
+        "bytes": 168677
+      }
+    },
+    {
+      "id": "IMG-016",
+      "path": "photos/IMG_5116.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-P16",
+      "date": "2026-09-05",
+      "title": "Site photograph 016",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "7aa8deaa9e037fab94915143bc9340759fc2f0d0f0efcbf6593f2bd27017e667",
+        "bytes": 124825
+      }
+    },
+    {
+      "id": "IMG-017",
+      "path": "photos/IMG_5117.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-P18",
+      "date": "2026-09-08",
+      "title": "Site photograph 017",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "ab3473ef5e9fe2e1259aeab6e98e3b90ba2fa45bf85f4c472a81c1fecba50a09",
+        "bytes": 133139
+      }
+    },
+    {
+      "id": "IMG-018",
+      "path": "photos/IMG_5118.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-P19",
+      "date": "2026-09-11",
+      "title": "Site photograph 018",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "2ded341e28132d9f6b954c33c26ddd4c70776051bdfcaac9c1d419450e73ecb8",
+        "bytes": 155473
+      }
+    },
+    {
+      "id": "IMG-019",
+      "path": "photos/IMG_5119.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-P20",
+      "date": "2026-09-14",
+      "title": "Site photograph 019",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "4cb0adeb59fc300dcaf42b3d298350f68cae06852a52fe842307ee81fe6f3027",
+        "bytes": 154459
+      }
+    },
+    {
+      "id": "IMG-020",
+      "path": "photos/IMG_5120.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-P21",
+      "date": "2026-09-17",
+      "title": "Site photograph 020",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "73a5cbb7faa6af224b0bfba8c88fe69732707a368d39db8968be630ddf43a954",
+        "bytes": 129358
+      }
+    },
+    {
+      "id": "IMG-021",
+      "path": "photos/IMG_5121.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-P22",
+      "date": "2026-09-20",
+      "title": "Site photograph 021",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "41acb4296cb34e947f6eca835126fd94798c2a21464d4c5f087cb179c79eb8b2",
+        "bytes": 145695
+      }
+    },
+    {
+      "id": "IMG-022",
+      "path": "photos/IMG_5122.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-P23",
+      "date": "2026-09-23",
+      "title": "Site photograph 022",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "6cef9856ba05743bf1b7b235176e7cc4916f26f935b22bd21619990a67945a9c",
+        "bytes": 146911
+      }
+    },
+    {
+      "id": "IMG-023",
+      "path": "photos/IMG_5123.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-P24",
+      "date": "2026-09-26",
+      "title": "Site photograph 023",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "c1ef2c96f1f97491b218911a0ebe32bb14b25963dbac13cba9b20f73a0c42c85",
+        "bytes": 162669
+      }
+    },
+    {
+      "id": "IMG-024",
+      "path": "photos/IMG_5124.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-P25",
+      "date": "2026-09-05",
+      "title": "Site photograph 024",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "06e39c89a4b2df3c33b04e189e13e85b28431cc80e1ad4ea867a60754ffa795e",
+        "bytes": 137258
+      }
+    },
+    {
+      "id": "IMG-025",
+      "path": "photos/IMG_5125.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-L01",
+      "date": "2026-09-08",
+      "title": "Site photograph 025",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "d8c07c981abd0a87a5f607fffd14c26c25065a4948e10c90ec985c9225273b23",
+        "bytes": 143006
+      }
+    },
+    {
+      "id": "IMG-026",
+      "path": "photos/IMG_5126.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-L02",
+      "date": "2026-09-11",
+      "title": "Site photograph 026",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "cba4ed9eefacb25b4ecd6195596e0419e30eec62ff47699fd21285c6bc089c6c",
+        "bytes": 134519
+      }
+    },
+    {
+      "id": "IMG-027",
+      "path": "photos/IMG_5127.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-L03",
+      "date": "2026-09-14",
+      "title": "Site photograph 027",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "a64efdd911103421f5b481cd26ad55402c59a3c5afca526d1b258f144ce03578",
+        "bytes": 151347
+      }
+    },
+    {
+      "id": "IMG-028",
+      "path": "photos/IMG_5128.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-L04",
+      "date": "2026-09-17",
+      "title": "Site photograph 028",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "72286413302345a3c0967bc16a6dae4b4de842b82b65badb694fa3e8eacd970a",
+        "bytes": 111731
+      }
+    },
+    {
+      "id": "IMG-029",
+      "path": "photos/IMG_5129.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-L05",
+      "date": "2026-09-20",
+      "title": "Site photograph 029",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "28ee09811b6e268f565f3ca1ab308157c901970a1668431bc8d2287e05451ddd",
+        "bytes": 94865
+      }
+    },
+    {
+      "id": "IMG-030",
+      "path": "photos/IMG_5130.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-L06",
+      "date": "2026-09-23",
+      "title": "Site photograph 030",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "fc08c0cb05bb941560344411eab8673a6ed7b3e571339737d0b80fa147396f92",
+        "bytes": 126853
+      }
+    },
+    {
+      "id": "IMG-031",
+      "path": "photos/IMG_5131.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-L07",
+      "date": "2026-09-26",
+      "title": "Site photograph 031",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "6acc0a10f1bad7e7e4ae4404982596cca3e805f97524a924a04db54ce8804fc6",
+        "bytes": 211228
+      }
+    },
+    {
+      "id": "IMG-032",
+      "path": "photos/IMG_5132.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-L08",
+      "date": "2026-09-05",
+      "title": "Site photograph 032",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "37d60a6a036153e0ac955ee46277888aacd74c6ec45daa028f8ea9e8bb634991",
+        "bytes": 142446
+      }
+    },
+    {
+      "id": "IMG-033",
+      "path": "photos/IMG_5133.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-L09",
+      "date": "2026-09-08",
+      "title": "Site photograph 033",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "c491e77b170be448f26aafdfd5c3129d54603a314726e40668232ebf26528729",
+        "bytes": 143302
+      }
+    },
+    {
+      "id": "IMG-034",
+      "path": "photos/IMG_5134.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-L10",
+      "date": "2026-09-11",
+      "title": "Site photograph 034",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "d93aa211ec33f72b10171d8bbc26c70960db6e98182fdfbfb2c49fe6a1e6029e",
+        "bytes": 98294
+      }
+    },
+    {
+      "id": "IMG-035",
+      "path": "photos/IMG_5135.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-L11",
+      "date": "2026-09-14",
+      "title": "Site photograph 035",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "fa368cb5a2ece569262fbb5eba4d038f27562907d96958b41220aac8e71e047b",
+        "bytes": 127469
+      }
+    },
+    {
+      "id": "IMG-036",
+      "path": "photos/IMG_5136.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-L12",
+      "date": "2026-09-17",
+      "title": "Site photograph 036",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "c398a7eb64d6a131636ccd8febaf90469ae91dc901eaad7858f951a7be901d57",
+        "bytes": 117519
+      }
+    },
+    {
+      "id": "IMG-037",
+      "path": "photos/IMG_5137.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-L13",
+      "date": "2026-09-20",
+      "title": "Site photograph 037",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "15e84b2cecb014086a291c580d8ca60dbd73eee65ec392919120e90c89f5fa0e",
+        "bytes": 154586
+      }
+    },
+    {
+      "id": "IMG-038",
+      "path": "photos/IMG_5138.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-L14",
+      "date": "2026-09-23",
+      "title": "Site photograph 038",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "1f236e12b2f99c1ec6966d579ee993201d01b5352e312d66825b0ce92bf8d771",
+        "bytes": 112369
+      }
+    },
+    {
+      "id": "IMG-039",
+      "path": "photos/IMG_5139.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-P17",
+      "date": "2026-09-18",
+      "title": "Site photograph 039",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "82146b81af9439af9e05b3c4af57a27933a9178d682639166100ba30312bb5c2",
+        "bytes": 151894
+      }
+    },
+    {
+      "id": "IMG-040",
+      "path": "photos/IMG_5140.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-F02",
+      "date": "2026-09-25",
+      "title": "Site photograph 040",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "65614620a8a0bb5d4e97c444c046be410781554d44630d467f677b8e514a616d",
+        "bytes": 155338
+      }
+    },
+    {
+      "id": "IMG-041",
+      "path": "photos/IMG_5141.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-I01",
+      "date": "2026-09-27",
+      "title": "Site photograph 041",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "b7238610af4bc2182e955dea9d2748d8bc80bd707ad7075e27d7867495472c7b",
+        "bytes": 144149
+      }
+    },
+    {
+      "id": "IMG-042",
+      "path": "photos/IMG_5142.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-P26",
+      "date": "2026-09-11",
+      "title": "Site photograph 042",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "ead5af45811b33d62201e2df53752ec1d61bcd4d991f22bbeeea04ebcab5d558",
+        "bytes": 147373
+      }
+    },
+    {
+      "id": "IMG-043",
+      "path": "photos/IMG_5143.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-I02",
+      "date": "2026-09-14",
+      "title": "Site photograph 043",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "0c21add0eaf7cbcadd33c21b86f2be597a3e7b126a44507dc925a3113b295bcd",
+        "bytes": 108560
+      }
+    },
+    {
+      "id": "IMG-044",
+      "path": "photos/IMG_5144.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-V02",
+      "date": "2026-09-17",
+      "title": "Site photograph 044",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "014750212ba53a4947b6d6af43bc33cd4767ecae1581d1c58318e4c2fe97463b",
+        "bytes": 159709
+      }
+    },
+    {
+      "id": "IMG-045",
+      "path": "photos/IMG_5145.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-D02",
+      "date": "2026-09-20",
+      "title": "Site photograph 045",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "4d3ba58448504186af05376f634aa1b09a2be5548af711ba9df07ab4bee30bb8",
+        "bytes": 123694
+      }
+    },
+    {
+      "id": "IMG-046",
+      "path": "photos/IMG_5146.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-I03",
+      "date": "2026-09-23",
+      "title": "Site photograph 046",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "fabe1be5cba61248d69632dfd2d72d65f5599404a39c28b35980f23d7584858b",
+        "bytes": 139008
+      }
+    },
+    {
+      "id": "IMG-047",
+      "path": "photos/IMG_5147.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-F03",
+      "date": "2026-09-26",
+      "title": "Site photograph 047",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "fad4e82a4fecdc8b882c73685745b746db4d4ab8fc64ddaacf60f9ed29677c62",
+        "bytes": 153096
+      }
+    },
+    {
+      "id": "IMG-048",
+      "path": "photos/IMG_5148.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-W01",
+      "date": "2026-09-05",
+      "title": "Site photograph 048",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "a109aba2068b67e95211bf2248559e5100ce29a7bdf8ebe06c67a437150f623a",
+        "bytes": 135342
+      }
+    },
+    {
+      "id": "IMG-049",
+      "path": "photos/IMG_5149.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-T02",
+      "date": "2026-09-08",
+      "title": "Site photograph 049",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "317947cc891eb61da215700c7c0fec1e5bd42e8aa42b2edf56aa957e14e00706",
+        "bytes": 119494
+      }
+    },
+    {
+      "id": "IMG-050",
+      "path": "photos/IMG_5150.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-P27",
+      "date": "2026-09-11",
+      "title": "Site photograph 050",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "e24d274bcd6c26eb4bc7b9bb6332f966c3c997447636193ee9be95e22f55cc88",
+        "bytes": 176699
+      }
+    },
+    {
+      "id": "IMG-051",
+      "path": "photos/IMG_5151.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-I04",
+      "date": "2026-09-14",
+      "title": "Site photograph 051",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "5e4001a9577d78647e5d28177fb9bae4b1d04abc795f5216ac81bbc38270602e",
+        "bytes": 182743
+      }
+    },
+    {
+      "id": "IMG-052",
+      "path": "photos/IMG_5152.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-P28",
+      "date": "2026-09-17",
+      "title": "Site photograph 052",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "21dcda9b4ee83b0e3aef5a57703dcfb1ed3841e71fcf873f490cb69f3e199690",
+        "bytes": 139151
+      }
+    },
+    {
+      "id": "IMG-053",
+      "path": "photos/IMG_5153.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-R01",
+      "date": "2026-09-20",
+      "title": "Site photograph 053",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "dc79d76a8e20da29543829d7a7b22a98bf700eb4d301726a04f4988a2a5d9977",
+        "bytes": 133853
+      }
+    },
+    {
+      "id": "IMG-054",
+      "path": "photos/IMG_5154.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-R02",
+      "date": "2026-09-23",
+      "title": "Site photograph 054",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "e5be151865232c851f3dfe85f710d3fd119274109d63f2d8e1ea4de0922fb553",
+        "bytes": 135205
+      }
+    },
+    {
+      "id": "IMG-055",
+      "path": "photos/IMG_5155.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-R03",
+      "date": "2026-09-26",
+      "title": "Site photograph 055",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "3f85250a9da55fb1375cbb3d904f40a41fac516bcf53e75ebc60238628e6c33e",
+        "bytes": 117919
+      }
+    },
+    {
+      "id": "IMG-056",
+      "path": "photos/IMG_5156.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-R04",
+      "date": "2026-09-05",
+      "title": "Site photograph 056",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "4d5d347bf2a6220c57e8a6a00abcf60edcf27c4d1ee5e7544d412efffa8ef274",
+        "bytes": 128938
+      }
+    },
+    {
+      "id": "IMG-057",
+      "path": "photos/IMG_5157.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-R05",
+      "date": "2026-09-08",
+      "title": "Site photograph 057",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "8e2032e2699557ac9d11c2f8bb36dabb57543d82d972869eb53e1c554be4d86b",
+        "bytes": 163601
+      }
+    },
+    {
+      "id": "IMG-058",
+      "path": "photos/IMG_5158.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-R06",
+      "date": "2026-09-11",
+      "title": "Site photograph 058",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "7237e43a9a139e905bb7f2eb65755062039d4b7a34b3473208193490ae0bf143",
+        "bytes": 155852
+      }
+    },
+    {
+      "id": "IMG-059",
+      "path": "photos/IMG_5159.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-R07",
+      "date": "2026-09-14",
+      "title": "Site photograph 059",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "48614aa85eeabbb93179e9aaa1c36d73e0db47752eccb229c91ef321ece81a06",
+        "bytes": 117339
+      }
+    },
+    {
+      "id": "IMG-060",
+      "path": "photos/IMG_5160.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-R08",
+      "date": "2026-09-17",
+      "title": "Site photograph 060",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "512f2b2624211492a54b8a2258bfca8b90de448fed2d6bc16b92c2d473ab3be4",
+        "bytes": 156242
+      }
+    },
+    {
+      "id": "IMG-061",
+      "path": "photos/IMG_5161.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-R09",
+      "date": "2026-09-20",
+      "title": "Site photograph 061",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "c6c378e99a47f3b906f93414e99f96f42b3debef42f1d9c6ce0892022d457574",
+        "bytes": 145445
+      }
+    },
+    {
+      "id": "IMG-062",
+      "path": "photos/IMG_5162.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-R10",
+      "date": "2026-09-23",
+      "title": "Site photograph 062",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "f88f802fce4db08c3322dcaf3291ba58702c2fff0cc1d948acf6a4a72220ed03",
+        "bytes": 126680
+      }
+    },
+    {
+      "id": "IMG-063",
+      "path": "photos/IMG_5163.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-R11",
+      "date": "2026-09-26",
+      "title": "Site photograph 063",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "a180a0642ae91da76e459376f0560b27fc5576f02ef620b78cac108b64a39772",
+        "bytes": 119576
+      }
+    },
+    {
+      "id": "IMG-064",
+      "path": "photos/IMG_5164.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-S01",
+      "date": "2026-09-05",
+      "title": "Site photograph 064",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "3eff878be6c7652711bea19a98580b759dfb557edadc9086b0ae93c67c6441b3",
+        "bytes": 141680
+      }
+    },
+    {
+      "id": "IMG-065",
+      "path": "photos/IMG_5165.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-S02",
+      "date": "2026-09-08",
+      "title": "Site photograph 065",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "6a3fb02689afd9e8d76e494da53ef9a8fd8fc8124c1569d982e84e2d0c37bbce",
+        "bytes": 117505
+      }
+    },
+    {
+      "id": "IMG-066",
+      "path": "photos/IMG_5166.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-S03",
+      "date": "2026-09-11",
+      "title": "Site photograph 066",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "6d7fccd81852a3e331f479d56ff92e11775c9503a835f9f87c30c88de1bda512",
+        "bytes": 186034
+      }
+    },
+    {
+      "id": "IMG-067",
+      "path": "photos/IMG_5167.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-S04",
+      "date": "2026-09-14",
+      "title": "Site photograph 067",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "fd7d6293ad147339a6c594a55017f98746f60cbd36c4770de9672d2d45011b84",
+        "bytes": 130535
+      }
+    },
+    {
+      "id": "IMG-068",
+      "path": "photos/IMG_5168.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-S05",
+      "date": "2026-09-17",
+      "title": "Site photograph 068",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "617d6c85c03f9ec0a841940e406d5b8724069f79cb69697716d3374fcaaf2c0b",
+        "bytes": 138666
+      }
+    },
+    {
+      "id": "IMG-069",
+      "path": "photos/IMG_5169.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-S06",
+      "date": "2026-09-20",
+      "title": "Site photograph 069",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "c064155067de858ae407c2ec38ffef15a8910ca4752f0ce6b7d7d38b7d5c5200",
+        "bytes": 188646
+      }
+    },
+    {
+      "id": "IMG-070",
+      "path": "photos/IMG_5170.jpg",
+      "type": "image",
+      "building_id": "MC01",
+      "asset_id": "MC01-S07",
+      "date": "2026-09-23",
+      "title": "Site photograph 070",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "9eb7cdec90d03ba52eace3c5903b7d821d324b727502fe67cdc2e0c8bde17693",
+        "bytes": 102101
+      }
+    },
+    {
+      "id": "IMG-071",
+      "path": "photos/IMG_5171.jpg",
+      "type": "image",
+      "building_id": "CH02",
+      "asset_id": "CH02-P01",
+      "date": "2026-09-26",
+      "title": "Site photograph 071",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "fc0d6476d0e24dfc4619907ac4cba17cbc405f75498f1547a5c99e7886d82f7d",
+        "bytes": 175076
+      }
+    },
+    {
+      "id": "IMG-072",
+      "path": "photos/IMG_5172.jpg",
+      "type": "image",
+      "building_id": "CH02",
+      "asset_id": "CH02-P02",
+      "date": "2026-09-05",
+      "title": "Site photograph 072",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "3f944a6e0abc147742f376749995150c01f92a99a15425611e3c5824d68533ba",
+        "bytes": 201810
+      }
+    },
+    {
+      "id": "IMG-073",
+      "path": "photos/IMG_5173.jpg",
+      "type": "image",
+      "building_id": "CH02",
+      "asset_id": "CH02-P03",
+      "date": "2026-09-08",
+      "title": "Site photograph 073",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "57d2acb8c6829b821750be394563e7ae5e314aff15577f3cd1ad4faf31fb6a44",
+        "bytes": 144213
+      }
+    },
+    {
+      "id": "IMG-074",
+      "path": "photos/IMG_5174.jpg",
+      "type": "image",
+      "building_id": "CH02",
+      "asset_id": "CH02-P04",
+      "date": "2026-09-11",
+      "title": "Site photograph 074",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "99e52197ebdd7a4c8b36f7fdd00aa48079678076bbe4f252b5a38a5d80059354",
+        "bytes": 122439
+      }
+    },
+    {
+      "id": "IMG-075",
+      "path": "photos/IMG_5175.jpg",
+      "type": "image",
+      "building_id": "CH02",
+      "asset_id": "CH02-P05",
+      "date": "2026-09-14",
+      "title": "Site photograph 075",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "c613e53da25019fb1cbd3c865f83ebc902f9486d9221b41b71f94f32c1786d3f",
+        "bytes": 138029
+      }
+    },
+    {
+      "id": "IMG-076",
+      "path": "photos/IMG_5176.jpg",
+      "type": "image",
+      "building_id": "CH02",
+      "asset_id": "CH02-P06",
+      "date": "2026-09-17",
+      "title": "Site photograph 076",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "cf88ed50b177c6e4347fd29effe66df8ba5b49ae51fbdf9952d85cab614983e7",
+        "bytes": 146404
+      }
+    },
+    {
+      "id": "IMG-077",
+      "path": "photos/IMG_5177.jpg",
+      "type": "image",
+      "building_id": "CH02",
+      "asset_id": "CH02-P07",
+      "date": "2026-09-20",
+      "title": "Site photograph 077",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "5827a798f01886fee6a73ae1f32f96e14d1fb194219a41847a1752bd03190524",
+        "bytes": 133578
+      }
+    },
+    {
+      "id": "IMG-078",
+      "path": "photos/IMG_5178.jpg",
+      "type": "image",
+      "building_id": "CH02",
+      "asset_id": "CH02-P08",
+      "date": "2026-09-23",
+      "title": "Site photograph 078",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "14c8f8610647ec68c5f1b8475dea458b3b3150bb07a40f32f625a2d212e3ec1f",
+        "bytes": 135869
+      }
+    },
+    {
+      "id": "IMG-079",
+      "path": "photos/IMG_5179.jpg",
+      "type": "image",
+      "building_id": "CH02",
+      "asset_id": "CH02-P09",
+      "date": "2026-09-26",
+      "title": "Site photograph 079",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "627027c846a786784ffe5ecf1bde4520fdcbc49200cb76146cbcb90451e81339",
+        "bytes": 124240
+      }
+    },
+    {
+      "id": "IMG-080",
+      "path": "photos/IMG_5180.jpg",
+      "type": "image",
+      "building_id": "CH02",
+      "asset_id": "CH02-P10",
+      "date": "2026-09-05",
+      "title": "Site photograph 080",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "66c87288773b180aaea4c777057aac6787d645bd73a6002c9bca5bc153c67fae",
+        "bytes": 117272
+      }
+    },
+    {
+      "id": "IMG-081",
+      "path": "photos/IMG_5181.jpg",
+      "type": "image",
+      "building_id": "CH02",
+      "asset_id": "CH02-P11",
+      "date": "2026-09-08",
+      "title": "Site photograph 081",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "8908d3d8d28634be775f73366cc146c1c96d9b7512010422e1360c424bc38616",
+        "bytes": 130360
+      }
+    },
+    {
+      "id": "IMG-082",
+      "path": "photos/IMG_5182.jpg",
+      "type": "image",
+      "building_id": "CH02",
+      "asset_id": "CH02-L01",
+      "date": "2026-09-11",
+      "title": "Site photograph 082",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "b01a7f6aa732e1bd2523b3b9042b4b8c76b7ea263a4538acf1cd2ba62603ad89",
+        "bytes": 138241
+      }
+    },
+    {
+      "id": "IMG-083",
+      "path": "photos/IMG_5183.jpg",
+      "type": "image",
+      "building_id": "CH02",
+      "asset_id": "CH02-L02",
+      "date": "2026-09-14",
+      "title": "Site photograph 083",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "257b0f96c4ee76090914476f804a7a13b728f95abd75004ab40eadbbc2d4a8f0",
+        "bytes": 148370
+      }
+    },
+    {
+      "id": "IMG-084",
+      "path": "photos/IMG_5184.jpg",
+      "type": "image",
+      "building_id": "CH02",
+      "asset_id": "CH02-L03",
+      "date": "2026-09-17",
+      "title": "Site photograph 084",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "3c3cb527b6c5d741b296eec31c75b5efb77861a8e448d0b693521fc13b7d5b4e",
+        "bytes": 154952
+      }
+    },
+    {
+      "id": "IMG-085",
+      "path": "photos/IMG_5185.jpg",
+      "type": "image",
+      "building_id": "CH02",
+      "asset_id": "CH02-L04",
+      "date": "2026-09-20",
+      "title": "Site photograph 085",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "ba3e49c1361634c7146bc9a396b87f3e13f9749aaf3a522615102a5a937a52cc",
+        "bytes": 149922
+      }
+    },
+    {
+      "id": "IMG-086",
+      "path": "photos/IMG_5186.jpg",
+      "type": "image",
+      "building_id": "CH02",
+      "asset_id": "CH02-L05",
+      "date": "2026-09-23",
+      "title": "Site photograph 086",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "be400d8e165ec8d3150fb559354d296fd6599ff9806b4449b1e9b82b42cae3b6",
+        "bytes": 112155
+      }
+    },
+    {
+      "id": "IMG-087",
+      "path": "photos/IMG_5187.jpg",
+      "type": "image",
+      "building_id": "CH02",
+      "asset_id": "CH02-L06",
+      "date": "2026-09-26",
+      "title": "Site photograph 087",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "d306f4efa82fbb33ca0be155d70e0fc29db46edc13a039c12494028f15d50175",
+        "bytes": 134789
+      }
+    },
+    {
+      "id": "IMG-088",
+      "path": "photos/IMG_5188.jpg",
+      "type": "image",
+      "building_id": "CH02",
+      "asset_id": "CH02-P12",
+      "date": "2026-09-20",
+      "title": "Site photograph 088",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "cc9ddf6ce2a87b7c20f3e19c59099ad262dfef64098c46f0cf482a4085358d41",
+        "bytes": 192500
+      }
+    },
+    {
+      "id": "IMG-089",
+      "path": "photos/IMG_5189.jpg",
+      "type": "image",
+      "building_id": "CH02",
+      "asset_id": "CH02-F02",
+      "date": "2026-09-26",
+      "title": "Site photograph 089",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "a4f4028b51dbf5f2dac60d212b7a359e51abc3a4bb3ddb2dd549274404f862ec",
+        "bytes": 167064
+      }
+    },
+    {
+      "id": "IMG-090",
+      "path": "photos/IMG_5190.jpg",
+      "type": "image",
+      "building_id": "CH02",
+      "asset_id": "CH02-I01",
+      "date": "2026-10-01",
+      "title": "Site photograph 090",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "7af8772b65cf8b32866b13c21803def058c954c4fffde832f15fe065e0a5af6f",
+        "bytes": 137422
+      }
+    },
+    {
+      "id": "IMG-091",
+      "path": "photos/IMG_5191.jpg",
+      "type": "image",
+      "building_id": "CH02",
+      "asset_id": "CH02-V02",
+      "date": "2026-09-14",
+      "title": "Site photograph 091",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "a4dfafbe1543da92b2d474d627b5e06a13ac989ac5dcef663db264a84b774aa0",
+        "bytes": 210463
+      }
+    },
+    {
+      "id": "IMG-092",
+      "path": "photos/IMG_5192.jpg",
+      "type": "image",
+      "building_id": "CH02",
+      "asset_id": "CH02-P13",
+      "date": "2026-09-28",
+      "title": "Site photograph 092",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "36ae595612c616c1f149b254e25ea109788a9246547751ee6d46a153e106d9e0",
+        "bytes": 157021
+      }
+    },
+    {
+      "id": "IMG-093",
+      "path": "photos/IMG_5193.jpg",
+      "type": "image",
+      "building_id": "CH02",
+      "asset_id": "CH02-D02",
+      "date": "2026-09-20",
+      "title": "Site photograph 093",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "43e6cfff2cbd4cb31317d7d3ad11e8eab515796fd4aa1fb9fb47d4e2828ca87d",
+        "bytes": 137097
+      }
+    },
+    {
+      "id": "IMG-094",
+      "path": "photos/IMG_5194.jpg",
+      "type": "image",
+      "building_id": "CH02",
+      "asset_id": "CH02-R01",
+      "date": "2026-09-23",
+      "title": "Site photograph 094",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "e15d70c248b7f3a9cf6d6b60f032dab132f794c979b40b99b45d4720555217b5",
+        "bytes": 93987
+      }
+    },
+    {
+      "id": "IMG-095",
+      "path": "photos/IMG_5195.jpg",
+      "type": "image",
+      "building_id": "CH02",
+      "asset_id": "CH02-R02",
+      "date": "2026-09-26",
+      "title": "Site photograph 095",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "590e96e7a60c38388fb592f25f07df514ddc6e3440e06da9dafab28ab1919334",
+        "bytes": 173666
+      }
+    },
+    {
+      "id": "IMG-096",
+      "path": "photos/IMG_5196.jpg",
+      "type": "image",
+      "building_id": "CH02",
+      "asset_id": "CH02-R03",
+      "date": "2026-09-05",
+      "title": "Site photograph 096",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "d78a0f91ca40058c781f9cf72da1a2e3916555aab5f6a192d46c095f6b4c49fa",
+        "bytes": 121786
+      }
+    },
+    {
+      "id": "IMG-097",
+      "path": "photos/IMG_5197.jpg",
+      "type": "image",
+      "building_id": "CH02",
+      "asset_id": "CH02-R04",
+      "date": "2026-09-08",
+      "title": "Site photograph 097",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "44af0f6c9beab010c7963cb9ace350da3360da64bd6fde12cf459dae2b1bde17",
+        "bytes": 150371
+      }
+    },
+    {
+      "id": "IMG-098",
+      "path": "photos/IMG_5198.jpg",
+      "type": "image",
+      "building_id": "CH02",
+      "asset_id": "CH02-S01",
+      "date": "2026-09-11",
+      "title": "Site photograph 098",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "3399407b2a1c99d524d3d39db17fde01250b63fd225af36d66f778e67d9f84cb",
+        "bytes": 142397
+      }
+    },
+    {
+      "id": "IMG-099",
+      "path": "photos/IMG_5199.jpg",
+      "type": "image",
+      "building_id": "CH02",
+      "asset_id": "CH02-S02",
+      "date": "2026-09-14",
+      "title": "Site photograph 099",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "fed4641cbf6984f87dbb13caf7fc04a3d2b0195d29aeda4ac2a231190665e5d4",
+        "bytes": 183455
+      }
+    },
+    {
+      "id": "IMG-100",
+      "path": "photos/IMG_5200.jpg",
+      "type": "image",
+      "building_id": "CH02",
+      "asset_id": "CH02-S03",
+      "date": "2026-09-17",
+      "title": "Site photograph 100",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-image-2",
+        "status": "saved_file_validated",
+        "independent_scene": true,
+        "sha256": "4064dcd803ac413a4e0719df9e588421ade1cf9962b0ae0a4886a1a68245b526",
+        "bytes": 120304
+      }
+    },
+    {
+      "id": "AUD-001",
+      "path": "audio/VN_3101.mp3",
+      "type": "audio",
+      "building_id": "MC01",
+      "asset_id": "MC01-P17",
+      "date": "2026-09-18",
+      "title": "Visit recording 01",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-4o-mini-tts",
+        "voice": "ash",
+        "status": "saved_file_validated",
+        "sha256": "827e5225e6979abc1d0d262362061df79b533b4c9bac0f211ef7500b22bf77d3",
+        "bytes": 327168,
+        "duration_seconds": 20.448
+      }
+    },
+    {
+      "id": "AUD-002",
+      "path": "audio/VN_3102.mp3",
+      "type": "audio",
+      "building_id": "MC01",
+      "asset_id": "MC01-P17",
+      "date": "2026-09-22",
+      "title": "Visit recording 02",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-4o-mini-tts",
+        "voice": "coral",
+        "status": "saved_file_validated",
+        "sha256": "f6ee0b66f4cb65542e7956ad8eaaead0220df687ad7cd3b77d845f95b4f38ded",
+        "bytes": 317568,
+        "duration_seconds": 19.848
+      }
+    },
+    {
+      "id": "AUD-003",
+      "path": "audio/VN_3103.mp3",
+      "type": "audio",
+      "building_id": "MC01",
+      "asset_id": "MC01-F02",
+      "date": "2026-09-25",
+      "title": "Visit recording 03",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-4o-mini-tts",
+        "voice": "ash",
+        "status": "saved_file_validated",
+        "sha256": "ec223261641a549f660600a84b0e3b8bec5f757bc87db8c3ed5ce9c8a9d1ced3",
+        "bytes": 361728,
+        "duration_seconds": 22.608
+      }
+    },
+    {
+      "id": "AUD-004",
+      "path": "audio/VN_3104.mp3",
+      "type": "audio",
+      "building_id": "MC01",
+      "asset_id": "MC01-F02",
+      "date": "2026-09-30",
+      "title": "Visit recording 04",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-4o-mini-tts",
+        "voice": "coral",
+        "status": "saved_file_validated",
+        "sha256": "55af83597a510525cd49a65b912830a4c1035bb143394a3426847be3f1a7db90",
+        "bytes": 369792,
+        "duration_seconds": 23.112
+      }
+    },
+    {
+      "id": "AUD-005",
+      "path": "audio/VN_3105.mp3",
+      "type": "audio",
+      "building_id": "MC01",
+      "asset_id": "MC01-I01",
+      "date": "2026-09-27",
+      "title": "Visit recording 05",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-4o-mini-tts",
+        "voice": "ash",
+        "status": "saved_file_validated",
+        "sha256": "243134ecc1235d0fc6d103a2265d5e85117f48a09be92666d409779f0c5d202b",
+        "bytes": 353664,
+        "duration_seconds": 22.104
+      }
+    },
+    {
+      "id": "AUD-006",
+      "path": "audio/VN_3106.mp3",
+      "type": "audio",
+      "building_id": "MC01",
+      "asset_id": "MC01-P11",
+      "date": "2026-10-02",
+      "title": "Visit recording 06",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-4o-mini-tts",
+        "voice": "coral",
+        "status": "saved_file_validated",
+        "sha256": "1df52d94e6813a89a2ab3d7b6bc2fa504a3873722d1556bc7801dceb37ae6629",
+        "bytes": 370560,
+        "duration_seconds": 23.16
+      }
+    },
+    {
+      "id": "AUD-007",
+      "path": "audio/VN_3107.mp3",
+      "type": "audio",
+      "building_id": "MC01",
+      "asset_id": "MC01-P09",
+      "date": "2026-09-16",
+      "title": "Visit recording 07",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-4o-mini-tts",
+        "voice": "ash",
+        "status": "saved_file_validated",
+        "sha256": "f96e588ceef2a9e12c828ba9e68ab3095cc4f115d62f05f05fa96e82e0f569d6",
+        "bytes": 346368,
+        "duration_seconds": 21.648
+      }
+    },
+    {
+      "id": "AUD-008",
+      "path": "audio/VN_3108.mp3",
+      "type": "audio",
+      "building_id": "MC01",
+      "asset_id": "MC01-P09",
+      "date": "2026-09-24",
+      "title": "Visit recording 08",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-4o-mini-tts",
+        "voice": "coral",
+        "status": "saved_file_validated",
+        "sha256": "a68af88bcd3dd393aa2fb68360390ec92598f906c4dc8ad5c383f20ffe5298a6",
+        "bytes": 352896,
+        "duration_seconds": 22.056
+      }
+    },
+    {
+      "id": "AUD-009",
+      "path": "audio/VN_3109.mp3",
+      "type": "audio",
+      "building_id": "MC01",
+      "asset_id": "MC01-P01",
+      "date": "2026-09-18",
+      "title": "Visit recording 09",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-4o-mini-tts",
+        "voice": "ash",
+        "status": "saved_file_validated",
+        "sha256": "4061b9c14e3127f5a40aed727e18baee4ac0ab611aeceaf84eb06c06a3147a30",
+        "bytes": 354432,
+        "duration_seconds": 22.152
+      }
+    },
+    {
+      "id": "AUD-010",
+      "path": "audio/VN_3110.mp3",
+      "type": "audio",
+      "building_id": "MC01",
+      "asset_id": "MC01-P05",
+      "date": "2026-10-01",
+      "title": "Visit recording 10",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-4o-mini-tts",
+        "voice": "coral",
+        "status": "saved_file_validated",
+        "sha256": "84b7bcc18eafe9c999ba9acce388c939da8a1cc237dac868a2f4e6c9a2953f7a",
+        "bytes": 295296,
+        "duration_seconds": 18.456
+      }
+    },
+    {
+      "id": "AUD-011",
+      "path": "audio/VN_3111.mp3",
+      "type": "audio",
+      "building_id": "MC01",
+      "asset_id": "MC01-P04",
+      "date": "2026-09-21",
+      "title": "Visit recording 11",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-4o-mini-tts",
+        "voice": "ash",
+        "status": "saved_file_validated",
+        "sha256": "37d9576c56cca4c76c1296cdaef227fea74826a11ba946a5c77b525e9f4ee8ca",
+        "bytes": 336000,
+        "duration_seconds": 21.0
+      }
+    },
+    {
+      "id": "AUD-012",
+      "path": "audio/VN_3112.mp3",
+      "type": "audio",
+      "building_id": "MC01",
+      "asset_id": "MC01-P03",
+      "date": "2026-09-23",
+      "title": "Visit recording 12",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-4o-mini-tts",
+        "voice": "coral",
+        "status": "saved_file_validated",
+        "sha256": "96c571aca733a8c1c2fcb4e1f08e5d0cce6ac701d03eb133eb45612caabbd4c2",
+        "bytes": 344832,
+        "duration_seconds": 21.552
+      }
+    },
+    {
+      "id": "AUD-013",
+      "path": "audio/VN_3113.mp3",
+      "type": "audio",
+      "building_id": "MC01",
+      "asset_id": "MC01-L07",
+      "date": "2026-09-29",
+      "title": "Visit recording 13",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-4o-mini-tts",
+        "voice": "ash",
+        "status": "saved_file_validated",
+        "sha256": "2cb6baec5566eb2adc9c5a757ab6a53b30251f9cb8157717a09f2674d65e95e6",
+        "bytes": 309888,
+        "duration_seconds": 19.368
+      }
+    },
+    {
+      "id": "AUD-014",
+      "path": "audio/VN_3114.mp3",
+      "type": "audio",
+      "building_id": "MC01",
+      "asset_id": "MC01-P17",
+      "date": "2026-10-06",
+      "title": "Visit recording 14",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-4o-mini-tts",
+        "voice": "coral",
+        "status": "saved_file_validated",
+        "sha256": "3915d152d56394a3801edf3b2663920823bf12198136c6bc91cd76d978e7dddb",
+        "bytes": 307968,
+        "duration_seconds": 19.248
+      }
+    },
+    {
+      "id": "AUD-015",
+      "path": "audio/VN_3115.mp3",
+      "type": "audio",
+      "building_id": "CH02",
+      "asset_id": "CH02-P01",
+      "date": "2026-09-19",
+      "title": "Visit recording 15",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-4o-mini-tts",
+        "voice": "ash",
+        "status": "saved_file_validated",
+        "sha256": "3deefdfade71c64252fcb40f965e02ed3d4a118e7e4936e51dc70da72efd487a",
+        "bytes": 313728,
+        "duration_seconds": 19.608
+      }
+    },
+    {
+      "id": "AUD-016",
+      "path": "audio/VN_3116.mp3",
+      "type": "audio",
+      "building_id": "CH02",
+      "asset_id": "CH02-P12",
+      "date": "2026-09-20",
+      "title": "Visit recording 16",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-4o-mini-tts",
+        "voice": "coral",
+        "status": "saved_file_validated",
+        "sha256": "10d7623dec68ff19a57ccd6d42a3f527b224036ef9c81570cb10c9bcfd62ac0a",
+        "bytes": 307200,
+        "duration_seconds": 19.2
+      }
+    },
+    {
+      "id": "AUD-017",
+      "path": "audio/VN_3117.mp3",
+      "type": "audio",
+      "building_id": "CH02",
+      "asset_id": "CH02-F02",
+      "date": "2026-09-26",
+      "title": "Visit recording 17",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-4o-mini-tts",
+        "voice": "ash",
+        "status": "saved_file_validated",
+        "sha256": "27220eb07ce18898069c9740f6bf63ed7e68457b7cdbc738c3d12919b714b86a",
+        "bytes": 297600,
+        "duration_seconds": 18.6
+      }
+    },
+    {
+      "id": "AUD-018",
+      "path": "audio/VN_3118.mp3",
+      "type": "audio",
+      "building_id": "CH02",
+      "asset_id": "CH02-P13",
+      "date": "2026-09-28",
+      "title": "Visit recording 18",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-4o-mini-tts",
+        "voice": "coral",
+        "status": "saved_file_validated",
+        "sha256": "1311b1638913907084bbd56c7121fe220ed031b9e86d6a26be7d0fb068849d55",
+        "bytes": 327168,
+        "duration_seconds": 20.448
+      }
+    },
+    {
+      "id": "AUD-019",
+      "path": "audio/VN_3119.mp3",
+      "type": "audio",
+      "building_id": "CH02",
+      "asset_id": "CH02-P05",
+      "date": "2026-10-03",
+      "title": "Visit recording 19",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-4o-mini-tts",
+        "voice": "ash",
+        "status": "saved_file_validated",
+        "sha256": "4dc2a19e5246588fd6bd55b7a449bf4fb037542ff4e485072bdeadf2a90d5dbc",
+        "bytes": 381696,
+        "duration_seconds": 23.856
+      }
+    },
+    {
+      "id": "AUD-020",
+      "path": "audio/VN_3120.mp3",
+      "type": "audio",
+      "building_id": "CH02",
+      "asset_id": "CH02-I01",
+      "date": "2026-10-01",
+      "title": "Visit recording 20",
+      "synthetic": true,
+      "provenance": {
+        "kind": "ai-generated",
+        "model": "gpt-4o-mini-tts",
+        "voice": "coral",
+        "status": "saved_file_validated",
+        "sha256": "64aeb601a9dd68a1e54f4ee6d4cc4557d9ef8fd16a3e03f2c7c4a8ab425f707e",
+        "bytes": 312960,
+        "duration_seconds": 19.56
+      }
+    },
+    {
+      "id": "DOC-001",
+      "path": "reports/DOC_6101.pdf",
+      "text_path": "reports/DOC_6101.txt",
+      "type": "pdf",
+      "building_id": "MC01",
+      "asset_id": "MC01-P17",
+      "date": "2026-09-18",
+      "title": "Flange observation",
+      "synthetic": true,
+      "provenance": {
+        "kind": "authored",
+        "status": "saved_file_validated",
+        "text_source": "Authored UTF-8 equivalent of PDF content; not an AI summary.",
+        "sha256": "0660b97a08fc7f504550fc33af9348ec40b88cc17bbb966fd394c4bc5063fe31",
+        "bytes": 2839
+      }
+    },
+    {
+      "id": "DOC-002",
+      "path": "reports/DOC_6102.pdf",
+      "text_path": "reports/DOC_6102.txt",
+      "type": "pdf",
+      "building_id": "MC01",
+      "asset_id": "MC01-P17",
+      "date": "2026-09-22",
+      "title": "Contractor visit entry",
+      "synthetic": true,
+      "provenance": {
+        "kind": "authored",
+        "status": "saved_file_validated",
+        "text_source": "Authored UTF-8 equivalent of PDF content; not an AI summary.",
+        "sha256": "9f9e4bc14b0be1350576592980998e2cad1b891ba80663465d513373c126f7b1",
+        "bytes": 2807
+      }
+    },
+    {
+      "id": "DOC-003",
+      "path": "reports/DOC_6103.pdf",
+      "text_path": "reports/DOC_6103.txt",
+      "type": "pdf",
+      "building_id": "MC01",
+      "asset_id": "MC01-P17",
+      "date": "2026-10-06",
+      "title": "Pump follow-up history",
+      "synthetic": true,
+      "provenance": {
+        "kind": "authored",
+        "status": "saved_file_validated",
+        "text_source": "Authored UTF-8 equivalent of PDF content; not an AI summary.",
+        "sha256": "55c8f9bb7a2cd1616cdf2caba55653f102c66b942ccd6cc95f92db492ba0d59d",
+        "bytes": 2800
+      }
+    },
+    {
+      "id": "DOC-004",
+      "path": "reports/DOC_6104.pdf",
+      "text_path": "reports/DOC_6104.txt",
+      "type": "pdf",
+      "building_id": "MC01",
+      "asset_id": "MC01-F02",
+      "date": "2026-09-30",
+      "title": "Ventilation filter job history",
+      "synthetic": true,
+      "provenance": {
+        "kind": "authored",
+        "status": "saved_file_validated",
+        "text_source": "Authored UTF-8 equivalent of PDF content; not an AI summary.",
+        "sha256": "a1566efe1f4f6332c455969569115b293da3c16cd2424f12290a3225e6765fd8",
+        "bytes": 2797
+      }
+    },
+    {
+      "id": "DOC-005",
+      "path": "reports/DOC_6105.pdf",
+      "text_path": "reports/DOC_6105.txt",
+      "type": "pdf",
+      "building_id": "MC01",
+      "asset_id": "MC01-I01",
+      "date": "2026-09-27",
+      "title": "Pipe insulation observation",
+      "synthetic": true,
+      "provenance": {
+        "kind": "authored",
+        "status": "saved_file_validated",
+        "text_source": "Authored UTF-8 equivalent of PDF content; not an AI summary.",
+        "sha256": "18c2f368ba9833eda33c81665a40e5715a8fdb2a1aad7a0f7e45fa7c0dfa96e6",
+        "bytes": 2787
+      }
+    },
+    {
+      "id": "DOC-006",
+      "path": "reports/DOC_6106.pdf",
+      "text_path": "reports/DOC_6106.txt",
+      "type": "pdf",
+      "building_id": "MC01",
+      "asset_id": "MC01-P11",
+      "date": "2026-10-02",
+      "title": "Entrance equipment handover",
+      "synthetic": true,
+      "provenance": {
+        "kind": "authored",
+        "status": "saved_file_validated",
+        "text_source": "Authored UTF-8 equivalent of PDF content; not an AI summary.",
+        "sha256": "5a92dc2e3752776a7ea65fc354206a9ff1174c0831a9c328a441f15f708d0ac6",
+        "bytes": 2843
+      }
+    },
+    {
+      "id": "DOC-007",
+      "path": "reports/DOC_6107.pdf",
+      "text_path": "reports/DOC_6107.txt",
+      "type": "pdf",
+      "building_id": "MC01",
+      "asset_id": "MC01-P09",
+      "date": "2026-09-24",
+      "title": "Intermittent rattle visit",
+      "synthetic": true,
+      "provenance": {
+        "kind": "authored",
+        "status": "saved_file_validated",
+        "text_source": "Authored UTF-8 equivalent of PDF content; not an AI summary.",
+        "sha256": "cd5dd4602590806ed450a255ac73dabfac86045bd4e9227aec3e6e6d2bbad299",
+        "bytes": 2760
+      }
+    },
+    {
+      "id": "DOC-008",
+      "path": "reports/DOC_6108.pdf",
+      "text_path": "reports/DOC_6108.txt",
+      "type": "pdf",
+      "building_id": "MC01",
+      "asset_id": "MULTIPLE",
+      "date": "2026-10-06",
+      "title": "Building handover index",
+      "synthetic": true,
+      "provenance": {
+        "kind": "authored",
+        "status": "saved_file_validated",
+        "text_source": "Authored UTF-8 equivalent of PDF content; not an AI summary.",
+        "sha256": "81138ed48bb60be3e32f302f42a7eb8d2b4da1a15dbcc0c5f505cfee7e6eeb21",
+        "bytes": 2837
+      }
+    },
+    {
+      "id": "DOC-009",
+      "path": "reports/DOC_6109.pdf",
+      "text_path": "reports/DOC_6109.txt",
+      "type": "pdf",
+      "building_id": "CH02",
+      "asset_id": "CH02-P12",
+      "date": "2026-09-20",
+      "title": "Upper connection observation",
+      "synthetic": true,
+      "provenance": {
+        "kind": "authored",
+        "status": "saved_file_validated",
+        "text_source": "Authored UTF-8 equivalent of PDF content; not an AI summary.",
+        "sha256": "c0f10204bce5d07e6791cf3fce3e7d76480d11cfe917ce2a2af6c6c955a76d95",
+        "bytes": 2800
+      }
+    },
+    {
+      "id": "DOC-010",
+      "path": "reports/DOC_6110.pdf",
+      "text_path": "reports/DOC_6110.txt",
+      "type": "pdf",
+      "building_id": "CH02",
+      "asset_id": "CH02-F02",
+      "date": "2026-09-26",
+      "title": "Filter visit note",
+      "synthetic": true,
+      "provenance": {
+        "kind": "authored",
+        "status": "saved_file_validated",
+        "text_source": "Authored UTF-8 equivalent of PDF content; not an AI summary.",
+        "sha256": "8705950da3bdfbe2319333b08e133c706e160f1a0169be104c035fd9864ae49e",
+        "bytes": 2790
+      }
+    },
+    {
+      "id": "DOC-011",
+      "path": "reports/DOC_6111.pdf",
+      "text_path": "reports/DOC_6111.txt",
+      "type": "pdf",
+      "building_id": "CH02",
+      "asset_id": "CH02-P13",
+      "date": "2026-09-28",
+      "title": "Pump mounting observation",
+      "synthetic": true,
+      "provenance": {
+        "kind": "authored",
+        "status": "saved_file_validated",
+        "text_source": "Authored UTF-8 equivalent of PDF content; not an AI summary.",
+        "sha256": "fa75e72f10a408badbfb0557a3a5bbaedc89ad77e80d1477054c20c216f440b1",
+        "bytes": 2770
+      }
+    },
+    {
+      "id": "DOC-012",
+      "path": "reports/DOC_6112.pdf",
+      "text_path": "reports/DOC_6112.txt",
+      "type": "pdf",
+      "building_id": "CH02",
+      "asset_id": "MULTIPLE",
+      "date": "2026-10-03",
+      "title": "Calder House orientation",
+      "synthetic": true,
+      "provenance": {
+        "kind": "authored",
+        "status": "saved_file_validated",
+        "text_source": "Authored UTF-8 equivalent of PDF content; not an AI summary.",
+        "sha256": "c96bb16f187acdc46a2913eb0550e13189c7f10ad765c3e1cb931172687f56ff",
+        "bytes": 2869
+      }
+    }
+  ],
+  "indexing_policy": {
+    "image": "Encode image pixels only. Do not embed title or authoring descriptions.",
+    "audio": "Encode decoded audio only. Scripts must not be shipped or indexed.",
+    "pdf": "Extract PDF text locally; text_path is equivalent authored fallback content, not a summary.",
+    "metadata": "building_id, asset_id and date are strict structured filters, not embedding inputs."
+  }
+}

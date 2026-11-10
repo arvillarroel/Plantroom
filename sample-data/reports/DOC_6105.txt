@@ -1,0 +1,20 @@
+Mercer Court
+Pipe insulation observation
+Record: DOC-005
+Date: 2026-09-27
+Asset: MC01-I01
+Job: MC-J113
+Status: Awaiting contractor date
+SYNTHETIC DEMO RECORD - All content is fictional.
+
+Visible condition
+A seam in the silver foil jacket on the purple-band pipe had separated, exposing pale insulation. No touching, removal or material identification was carried out. Sources IMG-041 and AUD-005 belong to this visit.
+
+Location
+Asset MC01-I01, pipe corridor in the Mercer Court basement. This is an insulation condition record rather than a confirmed leak. The photograph alone cannot establish the material composition.
+
+Work status
+Job MC-J113 is open and awaiting a contractor date as of 27 September. There is no completion entry in this demonstration collection. No repair method is supplied.
+
+Similar record elsewhere
+Calder House asset CH02-I01 concerns torn black foam around a dry copper bend. It is another building and another asset; it must not inherit this work-order status.

@@ -1,0 +1,20 @@
+Calder House
+Upper connection observation
+Record: DOC-009
+Date: 2026-09-20
+Asset: CH02-P12
+Job: CH-J203
+Status: Inspection requested
+SYNTHETIC DEMO RECORD - All content is fictional.
+
+Observation
+White deposits and a small damp floor patch were recorded at the upper connection of blue-band green pump CH02-P12 in Calder House rear heating bay. Sources IMG-088 and AUD-016 record the observation.
+
+Asset distinction
+The orange-band green pump CH02-P01 is another Calder House asset and was recorded as dry in AUD-015. Mercer Court MC01-P17 has a separate lower-flange incident. None of these identities are interchangeable.
+
+Work status
+Job CH-J203 requests a qualified contractor inspection. This pack contains no completion record for the job. The observation does not identify the source of the water or the failed component.
+
+Use of evidence
+Show the building and capture date with each result. No operating instructions, isolation method or replacement specification are included. An image match alone is not a confirmed asset identification.

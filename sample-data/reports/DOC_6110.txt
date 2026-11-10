@@ -1,0 +1,20 @@
+Calder House
+Filter visit note
+Record: DOC-010
+Date: 2026-09-26
+Asset: CH02-F02
+Job: CH-J207
+Status: Added to contractor list
+SYNTHETIC DEMO RECORD - All content is fictional.
+
+Filter observation
+The turquoise-band cabinet CH02-F02 contains a dust-loaded pleated filter. IMG-089 and AUD-017 document the observation dated 26 September. A contractor visit is requested; no replacement completion is recorded.
+
+Nearby cabinet
+The yellow-band cabinet CH02-P04 has a clean filter in reference image IMG-074. It is a different asset, not the later state of the dusty filter. The colour band must be checked against the structured register.
+
+Cross-building distinction
+Mercer Court has a separate yellow-band filter cabinet MC01-F02 with its own completed job history. Its replacement entry does not apply to Calder House.
+
+Record limits
+These independently generated photographs are illustrative equipment records. They do not establish exact dimensions, compatible parts, filter performance or any current real-world condition.

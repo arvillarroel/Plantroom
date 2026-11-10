@@ -1,0 +1,20 @@
+Mercer Court
+Flange observation
+Record: DOC-001
+Date: 2026-09-18
+Asset: MC01-P17
+Job: MC-J104
+Status: Inspection requested
+SYNTHETIC DEMO RECORD - All content is fictional.
+
+Observation
+A white mineral crust was visible around the lower flange of the green heating circulation pump with the orange pipe band. A small damp patch was visible on the floor directly below. The observation does not identify the source or cause of moisture.
+
+Asset and location
+Asset MC01-P17, east heating bay, Mercer Court basement plant room. Reference photograph IMG-039 and recording AUD-001 were captured for this visit. The blue-band pump MC01-P01 is a separate asset.
+
+Follow-up
+Job MC-J104 requests contractor assessment. No isolation method, operating setting or replacement specification is supplied. No work was carried out by the visiting manager.
+
+Record boundary
+This report records the condition seen on 18 September only. It does not state the current condition. Photos in this corpus are independently invented; no other photograph is claimed to be a later view of this exact pump.

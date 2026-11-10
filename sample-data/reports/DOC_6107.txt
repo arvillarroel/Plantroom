@@ -1,0 +1,20 @@
+Mercer Court
+Intermittent rattle visit
+Record: DOC-007
+Date: 2026-09-24
+Asset: MC01-P09
+Job: MC-J098
+Status: Observation remains open
+SYNTHETIC DEMO RECORD - All content is fictional.
+
+Reported symptom
+On 16 September an intermittent low rattling sound was reported near the purple-band ventilation unit MC01-P09. AUD-007 records the report. Its reference portrait is IMG-009; a still image does not demonstrate an audible fault.
+
+Contractor attendance
+The contractor attended on 24 September and did not reproduce the sound during the visit. No component replacement is recorded. AUD-008 gives the outcome. The record does not identify a cause.
+
+Status
+Keep the observation open for a further dated note if the sound returns. A failure to reproduce a symptom does not invalidate the earlier observation and does not establish a repair.
+
+Separate jobs
+The dusty filter in MC01-F02 and the blue water booster assembly MC01-P03 are different assets. No evidence in this pack connects the rattle to either of them.

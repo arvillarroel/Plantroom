@@ -1,0 +1,13 @@
+# Built app (too big for GitHub; attached to a Release instead)
+*.apk
+*.aab
+
+# Gradle / Android Studio
+.gradle/
+build/
+local.properties
+.idea/
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/

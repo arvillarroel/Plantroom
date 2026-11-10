@@ -1,0 +1,20 @@
+Mercer Court
+Pump follow-up history
+Record: DOC-003
+Date: 2026-10-06
+Asset: MC01-P17
+Job: MC-J104
+Status: Limited visual follow-up
+SYNTHETIC DEMO RECORD - All content is fictional.
+
+Follow-up visit
+On 6 October the visiting manager recorded no visible fresh dampness beneath MC01-P17 from the walkway. Recording AUD-014 contains that limited observation. No new photograph was taken.
+
+Historical entries
+18 September: white deposits and dampness observed. 22 September: contractor recorded gasket replacement and a dry completion check. These dates describe different records and should remain visible in search results.
+
+Limits
+Absence of visible dampness during one visit does not establish a permanent repair. The old image IMG-039 should not be presented as proof of a current leak. The search application retrieves sources and does not determine condition.
+
+Next handover
+Retain the original observation, contractor entry and follow-up together under MC01-P17. A future visiting manager should create a new dated record if there is another observation.

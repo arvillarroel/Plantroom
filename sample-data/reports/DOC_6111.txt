@@ -1,0 +1,20 @@
+Calder House
+Pump mounting observation
+Record: DOC-011
+Date: 2026-09-28
+Asset: CH02-P13
+Job: CH-J211
+Status: Assessment requested
+SYNTHETIC DEMO RECORD - All content is fictional.
+
+Visible observation
+An outer-edge split was visible on a black rubber foot beneath the red pump CH02-P13. The nearby floor and pump connections appeared dry. Sources IMG-092 and AUD-018 record the observation.
+
+Interpretation
+This document does not establish whether the visible split affects performance, safety, noise or vibration. No vibration measurement, cause or repair requirement is claimed.
+
+Follow-up
+A contractor assessment was requested on 28 September under CH-J211. There is no completion entry in the demonstration pack. No method for lifting or adjusting equipment is provided.
+
+Related but separate
+The intact rubber vibration pad in detail image IMG-096 belongs to another invented reference asset. It is not a repaired view of CH02-P13 and must not be presented as a before/after comparison.

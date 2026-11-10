@@ -1,0 +1,20 @@
+Mercer Court
+Building handover index
+Record: DOC-008
+Date: 2026-10-06
+Asset: MULTIPLE
+Job: MC-H021
+Status: Fictional source register
+SYNTHETIC DEMO RECORD - All content is fictional.
+
+Heating records
+MC01-P17 is the orange-band pump: IMG-039, AUD-001, AUD-002, AUD-014 and DOC-001 to DOC-003. MC01-P01 is a separate blue-band pump with a dry observation in AUD-009. Never identify equipment from casing colour alone.
+
+Ventilation and insulation
+MC01-F02 is the yellow-band dusty-filter cabinet: IMG-040, AUD-003, AUD-004 and DOC-004. MC01-I01 is the damaged silver pipe jacket: IMG-041, AUD-005 and DOC-005. MC01-P09 has the rattle record DOC-007.
+
+Orientation
+MC01-P11 is the heating cabinet near the entrance; see DOC-006. MC01-P05 is a red expansion vessel. MC01-P03 is a twin blue booster assembly. The floor trench MC01-L07 was clear and dry in the separate observation AUD-013.
+
+Pack provenance
+All buildings, assets, people and events are fictional. The collection contains synthetic images and synthetic voices. Each independently generated photograph represents one invented asset or location; images are not measured before/after pairs.

@@ -1,0 +1,20 @@
+Mercer Court
+Ventilation filter job history
+Record: DOC-004
+Date: 2026-09-30
+Asset: MC01-F02
+Job: MC-J109
+Status: Replacement recorded
+SYNTHETIC DEMO RECORD - All content is fictional.
+
+Initial observation
+On 25 September a dust-loaded pleated filter was recorded inside the grey cabinet with the yellow band in Mercer Court ventilation alcove. Asset MC01-F02. Sources IMG-040 and AUD-003 record the earlier observation.
+
+Completion entry
+The contractor record states that the filter was replaced on 30 September. AUD-004 is a paperwork update made that day. No later photograph of this exact cabinet or filter is included.
+
+Separate equipment
+The heating control cabinet MC01-P11 is by the basement doorway and does not contain this filter. The ventilation unit MC01-P09 has a separate intermittent-noise job. Do not merge those jobs.
+
+Documentation limits
+The fictional record does not specify a filter grade, part number, maintenance interval or procedure. The old dusty-filter image remains relevant historical evidence and is not an image of the replacement.

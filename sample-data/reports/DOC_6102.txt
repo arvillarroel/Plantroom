@@ -1,0 +1,20 @@
+Mercer Court
+Contractor visit entry
+Record: DOC-002
+Date: 2026-09-22
+Asset: MC01-P17
+Job: MC-J104
+Status: Work recorded complete
+SYNTHETIC DEMO RECORD - All content is fictional.
+
+Recorded work
+The fictional contractor entry records gasket replacement at the lower flange of MC01-P17, the orange-band circulation pump. A dry visual check at completion is recorded. This document provides no method of work or equipment specification.
+
+Evidence timeline
+18 September: IMG-039, AUD-001 and DOC-001 record deposits and dampness. 22 September: AUD-002 and this entry record the contractor update. The original image remains a historical observation.
+
+What this record establishes
+The entry establishes what was recorded as done on this date. It is not a warranty, diagnosis or independent verification of the repair. No new photograph of this exact asset was taken for the completion entry.
+
+Record linkage
+Attach this job to MC01-P17 only. Calder House has an orange-band green pump under CH02-P01; colour similarity does not transfer the maintenance history between buildings.

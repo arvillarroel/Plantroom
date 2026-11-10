@@ -1,0 +1,20 @@
+Mercer Court
+Entrance equipment handover
+Record: DOC-006
+Date: 2026-10-02
+Asset: MC01-P11
+Job: MC-H018
+Status: Orientation only
+SYNTHETIC DEMO RECORD - All content is fictional.
+
+Find the cabinet
+The heating control cabinet MC01-P11 is a closed pale grey box just inside the basement plant-room doorway. It has a small dark display and one green indicator. Reference image IMG-011 and recording AUD-006 help locate it.
+
+Avoid the wrong cabinet
+The grey ventilation filter cabinet with the yellow band is further inside the ventilation alcove. Its asset is MC01-F02. The heating controls and filter cabinet are separate equipment even though both have grey panels.
+
+Other useful orientation
+The red expansion vessel MC01-P05 stands on a black ring base beside a tall silver hot-water cylinder. AUD-010 describes that location. The small condensate collection unit below the boilers is described in AUD-011.
+
+Scope
+This is a fictional location handover, not an instruction to operate equipment. There are no real access codes, isolation diagrams, manufacturer settings or electrical procedures in the pack.

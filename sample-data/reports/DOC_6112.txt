@@ -1,0 +1,20 @@
+Calder House
+Calder House orientation
+Record: DOC-012
+Date: 2026-10-03
+Asset: MULTIPLE
+Job: CH-H031
+Status: Handover record
+SYNTHETIC DEMO RECORD - All content is fictional.
+
+Controls
+The closed dark blue cabinet CH02-P05 has two green indicators and sits along the basement corridor. Image IMG-075 and recording AUD-019 locate it. Mercer Court has a different pale grey cabinet.
+
+Other equipment
+CH02-P03 is a blue expansion vessel beside a short white cylinder. CH02-P06 is a black water booster below a stainless pressure vessel. These are reference records, not fault diagnoses.
+
+Maintenance list
+CH02-I01 has a tear in black foam around a dry copper bend, described in AUD-020 and image IMG-090. Keep it separate from Mercer Court silver-jacket work. CH-J203, CH-J207 and CH-J211 remain requests without completion entries in this pack.
+
+Provenance and boundaries
+Calder House is fictional. No real address, access code or tenant information is included. Search this building by strict CH02 metadata filtering, not by guessing the building from appearance.
